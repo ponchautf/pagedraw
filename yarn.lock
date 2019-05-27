@@ -7434,9 +7434,9 @@ num2fraction@^1.2.2:
   version "1.2.2"
   resolved "https://registry.yarnpkg.com/num2fraction/-/num2fraction-1.2.2.tgz#6f682b6a027a4e9ddfa4564cd2589d1d4e669ede"
 
-number-generator@2.1.1:
-  version "2.1.1"
-  resolved "https://registry.yarnpkg.com/number-generator/-/number-generator-2.1.1.tgz#1776cee1fb5e756fa5dadbedecb8e51b8c4b1962"
+number-generator@2.3.1:
+  version "2.3.1"
+  resolved "https://registry.yarnpkg.com/number-generator/-/number-generator-2.3.1.tgz#c5846d82483b7befd62cd566f63b800c3dec9d12"
 
 number-is-nan@^1.0.0:
   version "1.0.1"
